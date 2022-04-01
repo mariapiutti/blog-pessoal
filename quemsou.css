@@ -1,0 +1,49 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body {
+    background-image: url(Imagem8.png);
+}
+#cabeçalho {
+    background:rgb(114, 201, 179);
+    text-align: center;
+    height: 135px;
+    margin-top: 40px;
+    padding: 10px;
+    color: rgb(12, 12, 83);
+    font-size: 20px;
+    font-family: monospace
+}
+#container {
+    width: 50%;
+    height: 720px;
+    background-color: white;
+    padding: 20px;
+    margin: auto;
+   
+}
+a {
+    color: rgb(52, 122, 105);
+    text-decoration: none;
+    padding: 40px;
+}
+a:hover {
+    padding: 18px;
+    color: white;
+    background-color: rgb(114, 201, 179);
+}
+
+#arealogo{
+    padding: 10px;
+
+}
+#areaazul {
+    
+    font-size: 50px;
+}
+#arearosa {
+    color: rgb(235, 140, 195);
+    font-size: 50px;
+    padding-left: 10px;
+}

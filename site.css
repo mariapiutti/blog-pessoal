@@ -1,0 +1,141 @@
+* {
+    padding: 0px;
+    margin: 0px;
+} 
+body {
+    background-image: url(Capturar3.png);
+    width: 100%;
+    color: rgb(12, 12, 83);
+    font-size: 20px;
+    font-family: monospace;
+    
+}
+
+#cabeçalho {
+    background: white;
+    text-align: center;
+    height: 135px;
+    margin-top: 40px;
+    padding: 10px;
+    
+}
+a {
+    color: rgb(52, 122, 105);
+    text-decoration: none;
+    padding: 40px;
+}
+a:hover {
+    padding: 18px;
+    color: white;
+    background-color: rgb(52, 122, 105);
+}
+
+#arealogo{
+    padding: 10px;
+
+}
+#areaazul {
+    
+    font-size: 50px;
+}
+#arearosa {
+    color: rgb(235, 140, 195);
+    font-size: 50px;
+    padding-left: 10px;
+}
+#container1 {
+    border: 5px solid rgb(52, 122, 105);
+    width: 30%;
+    height: 200px;
+    float: left;
+    margin-left: 250px;
+    margin-top: 180px;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+#container2 {
+    border: 1px transparent red;
+    width: 20%;
+    height: 300px;
+    float: right;
+    margin-right: 300px;
+    margin-top: 100px;
+}
+#container3{
+    background-color: rgb(169, 233, 241);
+    height: 50px;
+    margin-top: 600px;
+     
+}
+ .container4-pai {
+    background-image: url(Imagem10.jpg);
+    border-radius: 1px;
+    background-repeat: no-repeat;
+    width: 30%;
+    height: 300px;
+    position: relative;
+    top: 100px;
+    margin-left: 260px;
+    float: left;
+    margin-top: 5px;
+  
+ }    
+.filho {
+    background-image: url(Imagem3.png);
+    width: 100%;
+    border-radius: 5px red;
+    height: 360px;
+    float: left;
+} 
+#container4{
+    background-color: rgb(205, 239, 243);
+    margin-top: 590px;
+     height: 800px;
+     
+   
+}
+#conteudo1{
+    border: 1px  red;
+    width: 560px;
+    height: 300px;
+    float: right;
+    margin-top: 120px;
+    margin-right: 100px;
+   
+}
+#habilidade1 {
+    border: 40px solid rgb(2, 21, 51);
+    float: right;
+    height: 480px;
+    margin-right: 100px;
+    margin-top: 70px;
+}
+
+#trajetoria {
+    width: 40%;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+#passaro {
+    margin-left: 40px;
+   padding: 10px;
+}
+#passaro2 {
+  margin-left: 500px;
+}
+.footer {
+    background-color: rgb(5, 5, 65);
+    padding: 10px;
+    height: 150px;
+    margin-top: 80px;
+}
+
+#emojiface {
+    font-size: 15px;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+}
